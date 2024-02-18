@@ -1,4 +1,4 @@
-# Prompt Factory Agents (PFA)
+# Prompt Factory Assistant (PFA) (latest ver. PFA latent-space-agents) 
 
 ---
 
